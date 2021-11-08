@@ -24,6 +24,12 @@ hour
 minute
 
 second
+
+today
+# 2021/11/8
+
+now
+# 16:17:20
 ```
 
 
