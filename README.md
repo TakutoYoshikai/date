@@ -1,6 +1,9 @@
 # date
+Commands about datetime.
 
 ### Requirements
+* macOS or Ubuntu
+* npm
 
 ### Usage
 **install**
