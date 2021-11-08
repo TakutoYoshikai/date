@@ -7,6 +7,8 @@
 ```bash
 npm install -g TakutoYoshikai/date
 ```
+
+**show datetime**
 ```bash
 year
 
