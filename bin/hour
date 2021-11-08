@@ -1,3 +1,8 @@
 #!/bin/bash
 
-date "+%H"
+if [ "$1" = "-0" ]; then
+  date "+%H"
+  exit
+fi
+date "+%-H"
+
